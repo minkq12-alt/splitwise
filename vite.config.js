@@ -10,5 +10,5 @@ export default defineConfig({
       },
     }),
   ],
-  base: '/splitwise/', // 👈 this must be at the root level
+  base: '/vite-user-app/',  // 👈 this must be at the root level
 });
